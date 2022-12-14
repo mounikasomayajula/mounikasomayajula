@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mounikasomayajula
-- 👀 I’m interested in Web development
+- 👀 I’m am currently working as a backend engineer at "Getuff"
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate with any team who can assign me work on web development and Data analysis
 - 📫 How to reach me -- smounika2014@gmail.com
